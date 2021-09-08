@@ -4,7 +4,8 @@ Turning my Liked Songs on YouTube into a Spotify Playlist
 
 
 # Troubleshooting and future work
-The Spotify Oauth token expires quickly, therefore I often receive a KeyError caused by an expired token. In the future, I will work on handling exceptions better.
+- The Spotify Oauth token expires quickly, therefore I often receive a KeyError caused by an expired token. 
+- In the future, I want to have tests
 
 
 *Comment: missing info from `client_secret.json` and `secrets.py` for security reasons*
