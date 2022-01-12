@@ -8,4 +8,4 @@ Turning my Liked Songs on YouTube into a Spotify Playlist
 - In the future, I want to have tests
 
 
-*Comment: missing info from `client_secret.json` and `secrets.py` for security reasons*
+*Comment: removed info from `client_secret.json` and `secrets.py` for security*
